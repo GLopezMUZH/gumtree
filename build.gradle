@@ -54,7 +54,7 @@ subprojects {
         annotationProcessor 'org.atteo.classindex:classindex:3.10'
         implementation 'org.atteo.classindex:classindex:3.10'
         testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2'
-        testImplementation 'org.hamcrest:hamcrest-library:2.1'
+        testImplementation 'org.hamcrest:hamcrest-library:2.2'
     }
 
     test {
