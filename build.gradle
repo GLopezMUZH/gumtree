@@ -77,7 +77,7 @@ configure(subprojects.findAll { it.name.startsWith('gen.antlr3') }) {
     apply plugin: 'antlr'
 
     dependencies {
-        antlr 'org.antlr:antlr:3.5.2'
+        antlr 'org.antlr:antlr:3.5.3'
     }
 
     if (it.name.startsWith('gen.antlr3-')) {
