@@ -1,5 +1,5 @@
 plugins {
-    id 'info.solidsoft.pitest' version '1.7.0'
+    id 'info.solidsoft.pitest' version '1.9.0'
 }
 
 description = 'GumTree core module.'
